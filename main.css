@@ -1,0 +1,33 @@
+img {
+	max-width:100%;
+}
+
+audio {
+	margin-top:40px;
+}
+
+.song {
+	min-height:300px;
+	margin-bottom:40px;
+}
+
+.song h4 {
+	font-size:16px;
+	text-align: center;
+}
+
+.song img {
+	max-height:150px;
+	display:block;
+	margin:0px auto;
+}
+
+.song .btn {
+	position:absolute;
+	bottom:20px;
+	left:40%;
+}
+
+.song {
+	position:relative;
+}
